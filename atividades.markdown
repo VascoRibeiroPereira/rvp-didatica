@@ -29,6 +29,7 @@ Nesta página pode consultar a nossa oferta educativa e de festas, os preços, d
 ## <u>Atividades</u> <a href="assets/pdf/Ciência e património.pdf" download> <img src="assets/images/pdf-download.png" align="right">  </a>
 <br>
 
+[![Ricardo >](assets/images/pdf-download.png)](assets/pdf/Ciência e património.pdf)
 
 <h3 id="Visita ao teatro">Visita ao teatro</h3>
 
