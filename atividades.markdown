@@ -87,7 +87,7 @@ _Com website dedicado!_ - [Link](https://vascoribeiropereira.github.io/espectrof
 1 h 30 min | 2,5 € por participante | Máximo de 28 pax
 
 ***
-## <u>Atividades Escolares e Festas Educativas</u> <a href="assets/pdf/Festas de Aniversário Regulamento RVP-Didática.pdf" download> <img src="assets/images/pdf-download.png" align="right"></a>
+## <u>Atividades Escolares e Festas Educativas</u> <a href="assets/pdf/festas-aniversario-escolas.pdf" download> <img src="assets/images/pdf-download.png" align="right"></a>
 <br>
 
 <h3 id="Science Show">Science Show</h3>
