@@ -1,0 +1,299 @@
+---
+---
+
+@import 'jekyll-theme-architect';
+
+
+
+/*Colour of links*/
+
+/* unvisited link */
+a:link {
+  color: #007600;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: #b0b000;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+/*Colour of links*/
+
+
+/* The sidebar menu */
+body {
+  font-family: "Lato", sans-serif;
+}
+
+/*Define image gallery*/
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+/*Define image gallery*/
+
+/*Define image float*/
+
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
+/*Define image float*/
+
+header {
+  padding-top: 200px;
+  padding-bottom: 100px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #000000 url(../images/header-bg.jpg) 0 0 no-repeat;
+  background-size: cover;
+  border-bottom: solid 1px #000000;
+}
+
+
+
+
+
+
+/*Define the sidebar buttons*/
+/*Home button
+a.buttonHome {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+a.buttonHome small {
+  display: block;
+  font-size: 21px;
+  padding-left: 18px;
+}
+header a.buttonHome {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+}
+
+aside a.buttonHome {
+  display: block;
+  width: 202px;
+  padding-left: 64px;
+  margin-bottom: 20px;
+  font-size: 21px;
+  background: transparent url(../images/home-button.png) 0 0 no-repeat;
+  background-size: 200px 60px;
+}*/
+
+/*Who button*/
+/*a.buttonWho {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+a.buttonWho small {
+  display: block;
+  font-size: 21px;
+  padding-left: 18px;
+}
+header a.buttonWho {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+}
+
+aside a.buttonWho {
+  display: block;
+  width: 202px;
+  padding-left: 64px;
+  margin-bottom: 20px;
+  font-size: 21px;
+  background: transparent url(../images/who-button.png) 0 0 no-repeat;
+  background-size: 200px 60px;
+}*/
+
+a.buttonSimple {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+a.buttonSimple small {
+  display: block;
+  font-size: 25px;
+  text-align: center
+}
+header a.buttonSimple {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+
+}
+
+aside a.buttonSimple {
+  display: block;
+  width: 202px;
+  padding-left: 0px;
+  margin-bottom: 20px;
+  font-size: 21px;
+  background: transparent url(../images/simple-button.png) 0 0 no-repeat;
+  background-position: center;
+  background-size: 200px 60px;
+}
+
+
+/*End - Define the sidebar buttons*/
+
+/* GENERAL ELEMENT TYPE STYLES */
+
+#main-content h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 2.8em;
+  font-weight: normal;
+  color: #474747;
+  text-indent: 6px;
+  letter-spacing: -1px;
+}
+
+#main-content h1:before {
+  padding-right: 0.3em;
+  /*margin-left: -0.9em;*/
+  color: #9ddcff;
+  content: "";
+}
+
+#main-content h2 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: #474747;
+  text-indent: 4px;
+}
+#main-content h2:before {
+  padding-right: 0.3em;
+  /*margin-left: -1.5em;*/
+  margin-left: 0.5em;
+  content: "";
+  color: #9ddcff;
+}
+
+#main-content h3 {
+  margin-top: 24px;
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #474747;
+  text-indent: 3px;
+}
+
+#main-content h3:before {
+  padding-right: 0.3em;
+  /*margin-left: -2em;*/
+  margin-left: 1em;
+  content: "";
+  color: #9ddcff;
+}
+
+#main-content h4 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #474747;
+  text-indent: 3px;
+}
+
+h4:before {
+  padding-right: 0.3em;
+  /*margin-left: -2.8em;*/
+  margin-left: 1.5em;
+  content: "";
+  color: #9ddcff;
+}
+
+#main-content h5 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 14px;
+  color: #474747;
+  text-indent: 3px;
+}
+h5:before {
+  padding-right: 0.3em;
+  /*margin-left: -3.2em;*/
+    margin-left: 2em;
+  content: "";
+  color: #9ddcff;
+}
+
+#main-content h6 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: .8em;
+  color: #474747;
+  text-indent: 3px;
+}
+h6:before {
+  padding-right: 0.3em;
+  /*margin-left: -3.7em;*/
+  margin-left: 2.5em;
+  content: "";
+  color: #9ddcff;
+}
