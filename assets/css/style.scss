@@ -90,9 +90,7 @@ header {
 }
 */
 header {
-  color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/header-bg.jpg");
   background-repeat: no-repeat;
   /*background-attachment: fixed;*/
