@@ -26,7 +26,6 @@ E estes somos nós!
 ## Ricardo Pereira
 
 ![Ricardo <](assets/images/Ricardo.jpg)
-
 _Desde muito cedo que a comunicação é algo que me inspira e que considero como um principio fundamental, sendo que a especialização nessa área desenvolveu-se como algo natural. De que interessa sermos bons numa coisa se não o conseguirmos comunicar e transmitir ao próximo? Na **RVP Didática** trabalhamos com paixão e sei que a conseguimos transmitir em tudo aquilo que dinamizamos.
 Fazer este projeto crescer é algo extraordinário e acredito que conseguimos tornar o mundo um pouco melhor com a marca que deixamos nele... Apaixonando e despertando para o teatro, a arte e a ciência as milhares de crianças e a adultos com as quais temos tido oportunidade de trabalhar._
 
