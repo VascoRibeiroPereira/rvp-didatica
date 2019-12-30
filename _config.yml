@@ -23,7 +23,7 @@ email: geral@rvp-didatica.pt
 description: >- # this means to ignore newlines until "baseurl:"
   Dinamização de Eventos
 # baseurl: "https://www.rvp-didatica.pt" # the subpath of your site, e.g. /blog
-baseurl: "rvp-didatica"
+#baseurl: "rvp-didatica"
 url: "https://www.rvp-didatica.pt" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: "true"
 # twitter_username: jekyllrb
