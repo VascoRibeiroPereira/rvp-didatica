@@ -5,15 +5,16 @@ layout: default
 
 ## // Festas de Aniversário
 
-## // Atividades Escolares
+## Atividades Escolares
 
-## // Science Shows
+## Science Shows
 
-## // E muito mais!
+## E muito mais!
 ***
-> Todas as nossas atividades e programas educativos são planeados a pensar em grupos escolares, grupos particulares ou empresariais.
->
->Contacte-nos e solicite os nossos serviços, consulte o nosso calendário de eventos no facebook ou exponha–nos a sua ideia!
+
+Todas as nossas atividades e programas educativos são planeados a pensar em grupos escolares, grupos particulares ou empresariais.
+
+Contacte-nos e solicite os nossos serviços, consulte o nosso calendário de eventos no facebook ou exponha–nos a sua ideia!
 
 ***
 
