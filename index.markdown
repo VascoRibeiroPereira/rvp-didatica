@@ -23,7 +23,7 @@ E estes somos nós!
 
 ***
 
-## Ricardo Pereira
+<h2 style="text-align:right;"> Ricardo Pereira </h2>
 
 ![Ricardo <](assets/images/Ricardo.jpg)
 _Desde muito cedo que a comunicação é algo que me inspira e que considero como um principio fundamental, sendo que a especialização nessa área desenvolveu-se como algo natural. De que interessa sermos bons numa coisa se não o conseguirmos comunicar e transmitir ao próximo? Na **RVP Didática** trabalhamos com paixão e sei que a conseguimos transmitir em tudo aquilo que dinamizamos.
@@ -35,7 +35,7 @@ Fazer este projeto crescer é algo extraordinário e acredito que conseguimos to
 
 ![Vasco >](assets/images/Vasco.jpg)
 
-_Sou bioquímico de formação, mas sou também uma pessoa muito eclética no que respeita ao conhecimento científico. O gosto por saber mais e a hipotese de poder transmitir os conhecimentos que adquiro ao longo da minha vida através da **RVP Didática** dão um novo significado à vida. Com a **RVP Didática** sinto-me completo ao saber que alguém ficará um pouco mais enriquecido depois de frequentar as atividades que desenvolvemos!_
+_Sou bioquímico de formação, mas sou também uma pessoa muito eclética no que respeita ao conhecimento científico. O gosto por saber mais e a hipótese de poder transmitir os conhecimentos que adquiro ao longo da minha vida através da **RVP Didática** dão um novo significado à vida. Com a **RVP Didática** sinto-me completo ao saber que alguém ficará um pouco mais enriquecido depois de frequentar as atividades que desenvolvemos!_
 
 <br>
 <br>
