@@ -49,12 +49,12 @@ Porque não proporcionar uma actividade diferente aos seus funcionários? Fazemo
 ​
 **Passeios pedestres**
 
-Passar uma agradável manhã em comunhão com a natureza, enquanto aprendemos um pouco mais sobre a fauna e a flora envolvente, é algo que lhe sugerimos nos nossos percursos.
+Uma atividade em comunhão com a natureza, que nos permite aprender um pouco mais sobre a fauna e a flora envolvente pelos percursos estabelecidos.
 
 ​
 **Formações**
 
-Disponibilizaremos, em agenda, diferentes temas e datas para formações. Mantenha-se atento ou contacte-nos para saber mais informações.
+Disponibilizamos diferentes temas e datas para formações. Mantenha-se atento ou contacte-nos para saber mais informações.
 
 ​
 **Shows de Ciência**
@@ -65,13 +65,10 @@ Para escolas, particulares ou empresas, temos um conjunto de 15 actividades de q
 **Exercícios de Team Building para pequenos grupos**
 
 
-Todas as nossas actividades são passiveis de serem utilizadas como exercícios que visam fomentar a união, comunicação e o espírito de equipa. Estão indicadas para grupos empresariais ou particulares que delas possam beneficiar. Contacte-nos para podermos ajustar os programas e ir ao encontro das suas necessidades específicas.
+Atividades que visam fomentar a união, comunicação e o espírito de equipa Indicadas para grupos empresariais ou particulares que delas possam beneficiar. Contacte-nos para podermos ajustar os pro-gramas e ir ao encontro das suas necessidades específicas.
 
 ***
 
 <h3 id="Workshops de Ciência">Workshops de Ciência</h3>
 
-Os nossos workshops de ciência abrangem áreas bastante diversificadas, desde pequenas experiências até à construção de equipamentos científicos simples. Ao requisitar os nossos serviços adaptamos os conteúdos de acordo com a faixa etária e conhecimento do grupo.
-Realizamos também workshops científicos com periodicidade e localização fixa, em Sintra, basta que consulte a nossa agenda.
-
-As actividades e conteúdos abordados são adaptadas a qualquer idade e grau de conhecimento dos participantes.
+Os nossos workshops de ciência abrangem áreas bastante diversificadas, desde pequenas experiências até à construção de equipamentos científicos simples. Ao requisitar os nossos serviços adaptamos os conteúdos de acordo com a faixa etária e conhecimento do grupo. Contacte-nos para saber mais in-formações ou sugerir uma temática formativa diferente das disponibilizadas.

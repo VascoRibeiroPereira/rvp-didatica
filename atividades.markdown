@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# As nossas Atividades e Serviços
+# As nossas Atividades
 
 Nesta página pode consultar a nossa oferta educativa e de festas, os preços, duração e número de participantes. Para informação mais detalhada sobre a oferta da **RVP Didática** disponibilizamos documentos informativos associados a cada secção, que poderá descarregar clicando nos icones.
 
