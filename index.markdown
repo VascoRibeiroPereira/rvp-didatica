@@ -5,11 +5,11 @@ layout: default
 
 ## // Festas de Aniversário
 
-## Atividades Escolares
+## // Atividades Escolares
 
-## Science Shows
+## // Science Shows
 
-## E muito mais!
+## // E muito mais!
 ***
 
 Todas as nossas atividades e programas educativos são planeados a pensar em grupos escolares, grupos particulares ou empresariais.
