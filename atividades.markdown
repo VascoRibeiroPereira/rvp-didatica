@@ -3,7 +3,7 @@ layout: default
 ---
 # As nossas Atividades e Serviços
 
-Nesta página pode consultar a nossa oferta educativa e de festas, os preços, durações e número de participantes. Para informação mais detalhada sobre a oferta da **RVP Didática** disponibilizamos documentos informativos associados a cada secção, que poderá descarregar clicando nos icones.
+Nesta página pode consultar a nossa oferta educativa e de festas, os preços, duração e número de participantes. Para informação mais detalhada sobre a oferta da **RVP Didática** disponibilizamos documentos informativos associados a cada secção, que poderá descarregar clicando nos icones.
 
 ***
 ## Atividades
@@ -57,7 +57,7 @@ Nesta página pode consultar a nossa oferta educativa e de festas, os preços, d
 
 | Tempo                              | Preço                                 | Observações                       |
 |------------------------------------|---------------------------------------|-----------------------------------|
-3 h | Preço sob-consulta | Máximo de 60 pax
+3 h | Preço sob-consulta | Máximo de 35 pax
 
 ***
 
