@@ -7,7 +7,7 @@ layout: default
 #### // <a href="#Dinamização para Escolas e Centros de Estudo">Dinamização para Escolas e Centros de Estudo</a>
 #### // <a href="#Workshops de Teatro">Workshops de Teatro</a>
 #### // <a href="#Dinamização de Eventos">Dinamização de Eventos</a>
-#### // <a href="#Workshops de Ciência">Workshops de Ciência</a>--->
+#### // <a href="#Workshops de Ciência">Workshops de Ciência</a>
 
 ***
 
