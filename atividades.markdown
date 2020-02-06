@@ -20,7 +20,7 @@ Nesta página pode consultar a nossa oferta educativa e de festas, os preços, d
 ## Atividades Escolares e Festas Educativas
 #### // <a href="#Science Show">Science Show</a>
 #### // <a href="#Pequenos e Grandes Cientistas">Pequenos e Grandes Cientistas</a>
-#### // <a href="#Os astraunatas também fazem anos">Os astraunatas também fazem anos</a>
+#### // <a href="#Os astronautas também fazem anos">Os astronautas também fazem anos</a>
 #### // <a href="#Magias Científicas">Magias Científicas</a>
 #### // <a href="#O Harry Potter também é cientista!">O Harry Potter também é cientista!</a>
 
@@ -107,7 +107,7 @@ _Com Regulamento Próprio_ - [Download](assets/pdf/Sience Show Regulamento.pdf)
 
 ***
 
-<h3 id="Os astraunatas também fazem anos">Os astraunatas também fazem anos</h3>
+<h3 id="Os astronautas também fazem anos">Os astronautas também fazem anos</h3>
 
 | Tempo                              | Preço                                 | Observações                       |
 |------------------------------------|---------------------------------------|-----------------------------------|
