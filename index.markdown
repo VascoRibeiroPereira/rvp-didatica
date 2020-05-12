@@ -24,7 +24,7 @@ E estes somos nós!
 
 ***
 
-<h2 style="text-align:right;"> Ricardo Pereira </h2>
+<h2 style="text-align:left;"> Ricardo Pereira </h2>
 
 ![Ricardo >](assets/images/Ricardo.jpg)
 _Desde muito cedo que a comunicação é algo que me inspira e que considero como um principio fundamental, sendo que a especialização nessa área desenvolveu-se como algo natural. De que interessa sermos bons numa coisa se não o conseguirmos comunicar e transmitir ao próximo? Na **RVP Didática** trabalhamos com paixão e sei que a conseguimos transmitir em tudo aquilo que dinamizamos.
