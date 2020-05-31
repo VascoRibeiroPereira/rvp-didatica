@@ -12,17 +12,6 @@ layout: default
 <body>
 	<p id="greeting">Bem Vindo à Página de Conteúdos RVP Didática!</p>
 
-<p id="myContent">O Conteúdo Será aqui atualizado em breve...</p>
-
-<script>
-function myFunction() {
-  var x = document.getElementById("myContent");
-  (x.style.visibility === "hidden")
-}
-</script>
-
-
-
 <script>
   // This is called with the results from from FB.getLoginStatus().
   function statusChangeCallback(response) {
@@ -92,8 +81,7 @@ function myFunction() {
 
 	function testAPI() {
     FB.api('/me', function(response) {
-      //document.getElementById('greeting').innerHTML = "Brevemente"
-			document.getElementById('myContent').innerHTML
+      document.getElementById('greeting').innerHTML = "Brevemente"
 			;
     });
   }
