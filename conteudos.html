@@ -13,6 +13,7 @@ layout: default
 	<H1>Conteúdos RVP Didática</H1>
 
 	<p id="greeting">Bem Vindo à Página de Conteúdos RVP Didática!</p>
+	<p id="demo"></p>
 
 <script>
   // This is called with the results from from FB.getLoginStatus().
@@ -81,10 +82,11 @@ layout: default
   // Here we run a very simple test of the Graph API after login is
   // successful.  See statusChangeCallback() for when this call is made.
 
+var conteudos = "Brevemente";
+
 	function testAPI() {
     FB.api('/me', function(response) {
-      document.getElementById('greeting').innerHTML = "Brevemente"
-			;
+      document.getElementById('greeting').innerHTML = conteudos;
     });
   }
 </script>
