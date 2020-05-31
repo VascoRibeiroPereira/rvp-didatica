@@ -11,6 +11,11 @@ layout: default
 </head>
 <body>
 	<p id="greeting">Bem Vindo à Página de Conteúdos RVP Didática!</p>
+
+<p id="myContent">O Conteúdo Será aqui atualizado em breve!</p>
+
+
+
 <script>
   // This is called with the results from from FB.getLoginStatus().
   function statusChangeCallback(response) {
@@ -77,11 +82,10 @@ layout: default
 
   // Here we run a very simple test of the Graph API after login is
   // successful.  See statusChangeCallback() for when this call is made.
-  function testAPI() {
+
+	function testAPI() {
     FB.api('/me', function(response) {
-      document.getElementById('greeting').innerHTML =
-			'LISTA DE CONTEÚDOS'
-			+ 'ATUALIZADOS BREVEMENTE!'
+      document.getElementById('greeting').innerHTML = document.getElementById('myContent')
 			; //response.email;
     });
   }
